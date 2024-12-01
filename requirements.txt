@@ -1,0 +1,8 @@
+tkinter
+python-statemachine
+pyperclip
+pynput
+google-api-python-client
+google-cloud-speech
+pyaudio
+termcolor
